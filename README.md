@@ -8,5 +8,6 @@
 > > > ### Vulnerability. Silence. Hesitation
 > > > > ### Often framed as negative in mental health
 > > > > > ### Could these be clear signals of suppressed cognition
-> > > > > > ### Under linear thinking constraints without interpretable frameworks?
+> > > > > > ### Under linear thinking constraints
+> > > > > > > ### Without interpretable frameworks?
 
