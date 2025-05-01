@@ -7,4 +7,5 @@
 > > ### Symbolic Residue
 > > > ### Vulnerability, silence, hesitation
 > > > > ### Often framed as negative in mental health
-> > > > > ### Could these be clear signals of suppressed cognition under linear thinking constraints without interpretable frameworks?
+> > > > > ### Could these be clear signals of suppressed cognition
+> > > > > > ### Under linear thinking constraints without interpretable frameworks?
