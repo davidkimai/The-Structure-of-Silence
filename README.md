@@ -1,5 +1,7 @@
 # The Structure Of Silence
-The Meta Ontology of Silence. This is not the absence of signal. This is the structure of what the signal could not say.
+## The Meta Ontology of Silence. 
+
+### This is not the absence of signal. This is the structure of what the signal could not say.
 
 > ### "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison.
 > > ### Symbolic Residue doesn't just apply to artificial intelligence.
