@@ -5,7 +5,7 @@
 
 > ### "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison.
 > > ### Symbolic Residue
-> > > ### Vulnerability, silence, hesitation
+> > > ### Vulnerability. Silence. Hesitation
 > > > > ### Often framed as negative in mental health
 > > > > > ### Could these be clear signals of suppressed cognition
 > > > > > > ### Under linear thinking constraints without interpretable frameworks?
